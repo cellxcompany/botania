@@ -1998,6 +1998,9 @@ body {
 .cid-qQ1BRPzAIt .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qQ1BRPzAIt H2 {
+  text-align: left;
+}
 .cid-qQ1BZTZF71 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2194,8 +2197,8 @@ body {
   }
 }
 .cid-qQ1CB6Db3O {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
